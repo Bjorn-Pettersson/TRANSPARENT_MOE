@@ -1,0 +1,5 @@
+domain,matching_expert,match_count,total_sequences,fraction
+math,0,2,10,0.2
+law,1,1,10,0.1
+biokem,2,4,10,0.4
+stroy,3,1,10,0.1

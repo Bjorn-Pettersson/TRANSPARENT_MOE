@@ -1,0 +1,5 @@
+domain,mean_frac,std_frac,seed_42
+math,0.2,0.0,0.2
+law,0.1,0.0,0.1
+biokem,0.4,0.0,0.4
+stroy,0.1,0.0,0.1
